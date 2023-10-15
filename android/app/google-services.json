@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737220576802",
+    "project_id": "john-chat-app-6c95f",
+    "storage_bucket": "john-chat-app-6c95f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737220576802:android:1bf234c91a147cc9e9ec7b",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2gYFThegF7YBLLxFHwiNhELFis_pt4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
